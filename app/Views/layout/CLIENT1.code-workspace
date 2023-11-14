@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ci4-cms-client"
+		},
+		{
+			"path": "../../../../Projek-CLIENT"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
